@@ -84,10 +84,13 @@ p {
 /*testimonial*/
 
 #testimonials {
-    padding: 4% 15%;
     text-align: center;
     background-color: #ef8172;
     color: white;
+    height: 40rem;
+}
+.carousel-item {
+    padding: 4% 15%;
 }
 h2 {
     font-family: "Montserrat-Bold";
